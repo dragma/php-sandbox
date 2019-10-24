@@ -11,5 +11,12 @@ environment to pull-up ease a web environment for php (wordpress or something el
 4. connect your browser to `localhost:8002` for the web content
 5. connect your browser to `localhost:9003` for the phpmyadmin.
 
+## PHP
 
+Put your files in `./html`
 
+## MYSQL
+
+default host: `http://localhost:3306`
+default user: `root`
+default password: `sandbox`
